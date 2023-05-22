@@ -21,4 +21,6 @@ supporting bots/repl enviroments as users
 
 # API
 
-JSON REST api
+JSON REST api - for one shot responses
+
+Websockets for chatrooms
